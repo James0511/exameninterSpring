@@ -1,0 +1,5 @@
+package com.jamesp.app.service;
+
+public class UserServiceImpl {
+
+}

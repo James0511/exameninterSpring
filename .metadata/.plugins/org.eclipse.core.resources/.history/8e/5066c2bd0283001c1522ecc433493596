@@ -1,0 +1,5 @@
+package com.jamesp.app.controller;
+
+public class UserController {
+
+}
